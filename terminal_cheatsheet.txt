@@ -1,0 +1,23 @@
+mkdir x = make x directory in the current folder
+pwd = print working directory (see where you are in current file structure)
+cd x = go to x directory in the current folder (change directory)
+cd .. = go into parent directory
+cd ~ or ~ = go to root directory
+ls = print list of directories in current folder
+ls -a = print list of all directories including hidden ones
+ls -l = print list with details of current directory
+touch x = create x file
+rm -r = delete the folder including all files within into (remove)
+code x = open x file
+code . = open all files in current directory
+mv = move file
+mv -r = move folder
+cp = copy
+cp -r = copy a folder
+
+
+{[( when you delete something from the terminal you delete it FOREVER )]}
+
+arrows up and down to see previous commands
+CMD=K = clear screen
+History - shows list of previous commands
